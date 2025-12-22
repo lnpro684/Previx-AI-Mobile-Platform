@@ -3,7 +3,7 @@ Android Local Artificial Inteligence Platform Powered By Google Gemma 3
 
 ## Credits & Attribution
 
-This application is developed by **[lnpro684]** as the lead developer.
+This application is developed by **[lnpro684](https://github.com/lnpro684/)** as the lead developer.
 
 ### Third-Party Licenses
 
