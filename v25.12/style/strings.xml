@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Previx AI</string>
+    <string name="aimload">Loading AI Model...</string>
+    <string name="chtfade">Ask Anything Here...</string>
+    <string name="chtsend">Send</string>
+    <string name="prompt_here">Prompt Here</string>
+    <string name="send">Send</string>
+</resources>
