@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME_LO/NAMA_REPO_LO?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/lnpro684/Previx-AI-Mobile-Platform)
 ![Based On](https://img.shields.io/badge/Google-Gemma%203-green)
 ![Usage](https://img.shields.io/badge/Usage-Mobile-orange)
 
