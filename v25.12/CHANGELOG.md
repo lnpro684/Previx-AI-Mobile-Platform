@@ -2,7 +2,7 @@
 ![Parameter](https://img.shields.io/badge/Parameter-270M-blue)
 ![Quantized](https://img.shields.io/badge/Quantized%20By-Unsloth-red)
 
-# Previx AI Mobile Platform
+# Previx Neural Engine
 Android Local Artificial Inteligence Platform Powered By Google Gemma 3
 
 ## v25.12
