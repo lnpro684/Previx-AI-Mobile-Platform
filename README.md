@@ -2,7 +2,7 @@
 ![Based On](https://img.shields.io/badge/Google-Gemma%203-green)
 ![Usage](https://img.shields.io/badge/Usage-Mobile-orange)
 
-# Previx AI Mobile Platform
+# Previx Neural Engine
 Android Local Artificial Inteligence Platform Powered By Google Gemma 3
 
 ## Credits & Attribution
